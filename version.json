@@ -1,5 +1,9 @@
 {
     "current": "1.2", 
     "changes": "Released.",
-    "theme_link": "https://lolz.guru/threads/3901334/"
+    "theme_link": "https://lolz.guru/threads/3901334/",
+    "prices": {
+        "rub": 750,
+        "usd": 14
+        }
 }
